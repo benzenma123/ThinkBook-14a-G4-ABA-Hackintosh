@@ -49,7 +49,7 @@
 
 | Desktop | Audio/Graphics Info | Thermal/CPU Load |
 | :---: | :---: | :---: |
-| ![Desktop](https://via.placeholder.com/400x225?text=Tahoe+Desktop) | ![About](https://via.placeholder.com/400x225?text=Vega+8+2GB) | ![Activity](https://via.placeholder.com/400x225?text=8-Core+Multitasking) |
+| ![Desktop](https://github.com/user-attachments/assets/5dab264b-e432-4698-92b1-c4d4c555895c) | ![About](https://github.com/user-attachments/assets/27b3c99e-20b4-4760-babb-676c2bc7ca34) | ![Activity](https://github.com/user-attachments/assets/a76ff542-75c6-473b-b16f-a150c8a05a3f) |
 
 ---
 
