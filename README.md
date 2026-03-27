@@ -7,8 +7,8 @@
 ##  OS Info
 | Component | Details |
 | :--- | :--- |
-| **Tested Version** | **macOS Tahoe v26 (26Axxxx)** |
-| **Bootloader** | OpenCore 1.0.x |
+| **Tested Version** | **macOS Tahoe v26** & **macOS Sonoma v15** |
+| **Bootloader** | OpenCore 1.0.8 |
 | **System Model** | MacBookPro16,3 (Recommended) |
 
 ---
