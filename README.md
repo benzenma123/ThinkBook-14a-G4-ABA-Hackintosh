@@ -45,7 +45,7 @@
 ---
 
 ## 📸 Screenshots
-*(Replace these placeholders with your actual screenshots)*
+
 
 | Desktop | Audio/Graphics Info | Thermal/CPU Load |
 | :---: | :---: | :---: |
@@ -61,6 +61,4 @@
 ---
 
 ## 👨‍💻 Author
-**Ben**
-*Frontend & Backend Developer*
-*Currently building **BenOS** from scratch.*
+**Ben Nguyen**
